@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/nightingale-1?utm_medium=integration&utm_source=button&utm_campaign=nightingale)
+
 # Nightingale on Railway
 
 A Railway template for [Nightingale](https://github.com/ccfos/nightingale) (n9e), the open-source alerting and monitoring platform: alert rules over Prometheus, VictoriaMetrics, Elasticsearch, Loki, ClickHouse and SQL data sources, event processing, notification routing, dashboards, a built-in time-series database, an AI agent and an MCP server.
